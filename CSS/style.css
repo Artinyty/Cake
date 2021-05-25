@@ -1,0 +1,50 @@
+body { margin: 0; 
+background: url("../img/chrome_c5QdKRmQvL.jpg");
+
+} 
+/* no-repit что бы картинка не повторялась */
+.div1 {
+	width: 689px;
+	margin: 30px auto;
+	padding: 20px;
+
+	background-color: #f9d8f4;
+	box-shadow: 0 10px 30px #fb569b;
+	border-radius: 10px;
+}
+
+.forimg{
+	display: block;
+	margin: 0 auto;
+	height: 250px;
+	border-radius: 50%
+}
+.title {
+	font-size: 40px;
+	text-align: center;/* расположение текста */
+	color: #000;
+	box-shadow: 0 10px 30px #fb569b;
+
+}
+.div2{
+	text-align: right;
+	font-size: 14px;
+
+}
+ .opisanoimg {
+ 	display: block;
+ 	padding: 5px;
+ 	width: 200px;
+
+
+ }
+
+ .rechen {
+
+ }
+
+ .list{
+ 	padding-left: 0;
+ 	list-style-position: inside;
+ 	font-size: 14px;
+ }
